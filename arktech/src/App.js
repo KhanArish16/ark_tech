@@ -1,9 +1,14 @@
 import "./App.css";
+
+import Time from "./Component/Time";
+
 import Clock from "./Clock";
+
 
 function App() {
   return (
     <div className="App">
+      <Time />
       <header className="App-header">
 
           <h1>Updated code by zeeshan</h1>
