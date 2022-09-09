@@ -3,7 +3,8 @@ import React from "react";
 function Clock() {
   return (
     <>
-      <h1>Phir se update karke bheja hu</h1>
+      <h1>Changed Again</h1>
+      <p>Updated Sucessfully</p>
     </>
   );
 }
