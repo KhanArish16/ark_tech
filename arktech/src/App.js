@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           <h1>Updated code by zeeshan</h1>
+          <h1>Nirmala Khan Git Project</h1>
         </a>
       </header>
     </div>
