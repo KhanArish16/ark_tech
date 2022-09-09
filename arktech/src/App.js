@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import Clock from "./Clock";
 
 function App() {
   return (
@@ -18,8 +19,8 @@ function App() {
           <h1>Updated code by zeeshan</h1>
         </a>
       </header>
+      <Clock />
     </div>
   );
 }
-
 export default App;
